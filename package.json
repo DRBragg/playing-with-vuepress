@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "register-service-worker": "^1.0.0",
