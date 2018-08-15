@@ -3,10 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "test:e2e": "vue-cli-service test:e2e"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
   },
   "dependencies": {
     "register-service-worker": "^1.0.0",
@@ -23,6 +21,7 @@
     "@vue/eslint-config-standard": "^3.0.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
-    "vue-template-compiler": "^2.5.17"
+    "vue-template-compiler": "^2.5.17",
+    "vuepress": "^0.14.2"
   }
 }
