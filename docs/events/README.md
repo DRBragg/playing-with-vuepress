@@ -22,6 +22,12 @@ All trades cost 25% less Stardust
 ```
 
 ## Upcoming
+
+### Mythical Research
+::: tip Celebi
+On August 20th
+:::
+
 ### Community Days
 ::: tip Chikorita
 On September 22nd
