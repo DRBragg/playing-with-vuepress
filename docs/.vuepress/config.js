@@ -14,15 +14,14 @@ module.exports = {
       updatePopup: true
     },
     nav: [
-      { text: 'EVENTS', link: '/events/' },
-      { text: 'UPDATES', link: '/updates/' },
-      { text: 'RUMORS', link: '/rumors/' }
+      { text: 'The Important Stuff', link: '/events/' }
     ],
     sidebar: [
       {
         title: 'Events',
         collapsable: false,
         children: [
+          '/events/'
           '/events/current',
           '/events/upcoming'
         ]
@@ -32,6 +31,9 @@ module.exports = {
         collapsable: true,
         children: [
           '/updates/latest',
+          '/updates/08162018',
+          '/updates/08152018',
+          '/updates/08142018',
           '/updates/08022018'
         ]
       },
