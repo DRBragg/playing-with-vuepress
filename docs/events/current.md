@@ -2,14 +2,16 @@
 title: Current Events
 ---
 
-# Registeel
+# Regirock
 ```
-Teir 5 Boss Registeel
+Teir 5 Boss Regirock
 ```
 ::: tip Best Counters
-* Fire
+* Water
 * Fighting
 * Ground
+* Grass
+* Steel
 :::
 
 # Trade Event

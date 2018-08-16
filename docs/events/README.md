@@ -2,13 +2,18 @@
 ## Current Events and Bonuses
 
 ### Ending soon
-::: danger Registeel
-[Registeel](/events/current.html#registeel) leaves on August 16th
-:::
-
-::: warning Trading Bonus
+::: danger Trading Bonus
 [Trading Bonuses](/events/current.html#trade-event) end August 19th
 :::
+
+### Current
+::: tip Regirock
+[Regirock](/events/current.html#regirock) leaves on August 16th
+:::
+
+```
+Tier 5 Raid Boss: [Regirock](/events/current.html#regirock)
+```
 
 ```
 +3 Candy Bonus on all trades
