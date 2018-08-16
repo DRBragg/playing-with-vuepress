@@ -21,7 +21,7 @@ module.exports = {
         title: 'Events',
         collapsable: false,
         children: [
-          '/events/'
+          '/events/',
           '/events/current',
           '/events/upcoming'
         ]
