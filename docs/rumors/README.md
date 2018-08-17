@@ -1,3 +1,0 @@
-# Rumors
-
-# Gen 4

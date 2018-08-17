@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Pokemon Go Updates',
-  description: 'Quick Reference to Events, Bonuses, Updates, and Rumors',
+  description: 'Quick Reference to Events, Bonuses, Updates, and APK Teardowns',
   head: [
     ['link', { rel: 'icon', href: `/img/ball.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -38,8 +38,11 @@ module.exports = {
         ]
       },
       {
-        title: 'Rumors',
-        collapsable: false
+        title: 'APK Teardowns',
+        collapsable: true,
+        children: [
+          '/teardowns/0.115.2'
+        ]
       }
     ]
   }
