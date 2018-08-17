@@ -12,9 +12,9 @@ Tier 5 Raid Boss: [Regirock](/events/current.html#regirock)
 :::
 
 ::: tip Trading Bonus
-+3 Candy Bonus on all trades
-All trades cost 25% less Stardust
-3x XP on new Pokédex entries
+* +3 Candy Bonus on all trades
+* All trades cost 25% less Stardust
+* 3x XP on new Pokédex entries
 :::
 
 
