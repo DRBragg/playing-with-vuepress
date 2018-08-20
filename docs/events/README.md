@@ -9,6 +9,10 @@
 [Regirock](/events/current.html#regirock)
 :::
 
+::: tip Mythical Research:
+[Celebi](/events/current.html#celebi)
+:::
+
 ::: tip Research Breakthrough:
 [Raikou](/events/current.html#raikou)
 :::
@@ -17,14 +21,7 @@
 [Current Raid Bosses](/events/current.html#current-raid-bosses)
 :::
 
-
-
 ## Upcoming
-
-::: tip Mythical Research:
-Celebi on August 20th (time unknown)
-:::
-
 ### Community Days
 ::: tip Chikorita
 On September 22nd
