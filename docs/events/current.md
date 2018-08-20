@@ -10,18 +10,66 @@ You can start research on Celebi after you have completed Mew up to Stage 3, the
 Players from Go Fest will NOT get a second Celebi.
 :::
 
-### Stages
+### Stages (Work in Progress)
 
-* **Stage 1**
-  * Task 1
-  * Task 2
-  * Task 3
-  * Task 4
-* **Stage 2**
-  * Task 1
-  * Task 2
-  * Task 3
-  * Task 4
+* **Step 1**
+  * Power up Pokemon 5 times
+  * Battle in a Gym 2 times
+  * Battle in a raid
+::: tip Rewards
+10x Pokeball, 1x Charge TM, 1x Super Incubator
+:::
+
+* **Step 2**
+  * Make 3 new friends
+  * Evolve an evolved GRASS-type Pokemon
+  * Catch a Pokemon 3 days in a row
+::: tip Rewards
+1500 Stardust, 1x Sun Stone, 1x Premium Raid pass
+:::
+
+* **Step 3**
+  * Use a Sun Stone to evolve Gloom or Sunkern
+  * Use items to evolve Pokémon ??? times
+::: warning Rewards
+Unknown at this time
+:::
+
+* **Step 4**
+  * Evolve Eevee into Espeon during the day
+  * Walk 10 km with Eevee as your buddy to earn Candy
+  * Earn a Gold Johto medal
+::: warning Rewards
+Unknown at this time
+:::
+
+* **Step 5**
+  * Evolve Eevee into Umbreon at night
+::: warning Rewards
+Unknown at this time
+:::
+
+* **Step 6**
+  * Catch a Pokémon {0} days in a row
+  * Visit PokéStops {0} days in a row
+  * Use {0} Pinap Berries while catching Pokémon
+::: warning Rewards
+Unknown at this time
+:::
+
+* **Step 7**
+  * Catch {0} Grass- or Psychic-type Pokémon
+  * Evolve an evolved Grass-type Pokémon
+::: warning Rewards
+Unknown at this time
+:::
+
+* **Step 8**
+  * To be added…
+::: warning Rewards
+Unknown at this time
+:::
+
 
 ## Regirock
 ```

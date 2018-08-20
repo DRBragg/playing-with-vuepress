@@ -21,8 +21,6 @@
 [Current Raid Bosses](/events/current.html#current-raid-bosses)
 :::
 
-
-
 ## Upcoming
 ### Community Days
 ::: tip Chikorita
