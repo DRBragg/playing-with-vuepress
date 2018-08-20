@@ -41,7 +41,8 @@ module.exports = {
         title: 'APK Teardowns',
         collapsable: true,
         children: [
-          '/teardowns/0.115.2'
+          '/teardowns/0.115.2',
+          '/teardowns/0.115.3'
         ]
       }
     ]
