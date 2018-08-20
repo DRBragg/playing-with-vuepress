@@ -2,7 +2,7 @@
 title: Current Events
 ---
 
-# Celebi
+## Celebi
 ::: tip PSA
 You can start research on Celebi after you have completed Mew up to Stage 3, then work on the two side by side.
 :::
@@ -23,10 +23,11 @@ Players from Go Fest will NOT get a second Celebi.
   * Task 3
   * Task 4
 
-# Regirock
+## Regirock
 ```
 Teir 5 Boss Regirock
 ```
+![Teir 5 Boss Info](/img/t5Core.jpg)
 ::: tip Best Counters
 * Water
 * Fighting
@@ -35,9 +36,20 @@ Teir 5 Boss Regirock
 * Steel
 :::
 
-# Trade Event
+![Teir 5 Boss Counters](/img/t5Counters.jpg)
+
+## Research Breakthrough
 ```
-+3 Candy Bonus on all trades
-All trades cost 25% less Stardust
-3x XP on new Pokédex entries
+August breakthrough reward: Raikou
 ```
+![Raikou](/img/raikou.jpg)
+
+Quests:
+
+![Quests](/img/monthlyQuests.jpg)
+
+
+
+## Current Raid Bosses
+
+![Current Raid Bosses](/img/currentBosses.jpg)

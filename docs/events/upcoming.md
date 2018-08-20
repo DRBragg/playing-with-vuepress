@@ -14,3 +14,5 @@ Global Challenges, from August 29 to September 2.
 ```
 
 # Chikorita Community Day
+
+![Chikorita Community Day](/img/ChikoritaDay.jpg)
