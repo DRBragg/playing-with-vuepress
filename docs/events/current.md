@@ -32,34 +32,36 @@ Players from Go Fest will NOT get a second Celebi.
   * Use a Sun Stone to evolve Gloom or Sunkern
   * Reach level 25
   * Hatch 9 eggs
-::: warning Rewards
-Unknown at this time
+::: tip Rewards
+Encounter, 1x Kings Rock, 1x Premium Raid pass
 :::
 
 * **Step 4**
-  * Evolve Eevee into Espeon during the day
   * Walk 10 km with Eevee as your buddy to earn Candy
+  * Evolve Eevee into Espeon during the day
   * Send 20 gifts to friends
-::: warning Rewards
-Unknown at this time
+::: tip Rewards
+Encounter, 2500 Stardust, 1x Metal Coat
 :::
 
 * **Step 5**
+  * Walk 10 km with Eevee as your buddy to earn Candy
   * Evolve Eevee into Umbreon at night
-::: warning Rewards
-Unknown at this time
+  * Trade a Pokemon
+::: tip Rewards
+1x Star Piece, 15x Pinap Berries, 1x Up-Grade
 :::
 
 * **Step 6**
-  * Catch a Pokémon {0} days in a row
-  * Visit PokéStops {0} days in a row
-  * Use {0} Pinap Berries while catching Pokémon
-::: warning Rewards
-Unknown at this time
+  * Use items to evolve Pokemon 2 times
+  * Visit PokéStops 7 days in a row
+  * Use 25 Pinap Berries while catching Pokémon
+::: tip Rewards
+3500 Stardust, 1x Dragon Scale, 5x Silver Pinap Berries
 :::
 
 * **Step 7**
-  * Catch {0} Grass- or Psychic-type Pokémon
+  * Catch ??? Grass- or Psychic-type Pokémon
   * Evolve an evolved Grass-type Pokémon
 ::: warning Rewards
 Unknown at this time
