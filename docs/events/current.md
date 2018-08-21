@@ -30,7 +30,8 @@ Players from Go Fest will NOT get a second Celebi.
 
 * **Step 3**
   * Use a Sun Stone to evolve Gloom or Sunkern
-  * Use items to evolve Pokémon ??? times
+  * Reach level 25
+  * Hatch 9 eggs
 ::: warning Rewards
 Unknown at this time
 :::
@@ -38,7 +39,7 @@ Unknown at this time
 * **Step 4**
   * Evolve Eevee into Espeon during the day
   * Walk 10 km with Eevee as your buddy to earn Candy
-  * Earn a Gold Johto medal
+  * Send 20 gifts to friends
 ::: warning Rewards
 Unknown at this time
 :::
