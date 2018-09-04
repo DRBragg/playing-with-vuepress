@@ -8,7 +8,6 @@ September 3rd - 10th
 ```
 ![Global Research](/img/GlobalResearchMoltres.jpg)
 
-
 ## Celebi
 ::: tip PSA
 You can start research on Celebi after you have completed Mew up to Stage 3, then work on the two side by side.
@@ -80,7 +79,6 @@ Unknown at this time
 Unknown at this time
 :::
 
-
 ## Regirock
 ```
 Teir 5 Boss Regirock
@@ -105,8 +103,6 @@ September breakthrough reward: Entei
 Quests:
 
 ![Quests](/img/monthlyQuests.jpg)
-
-
 
 ## Current Raid Bosses
 
