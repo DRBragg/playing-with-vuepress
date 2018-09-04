@@ -2,7 +2,9 @@
 ## Current Events and Bonuses
 
 ### Ending soon
-
+::: warning Global Research Rewards
+[September 3rd - 10th](/events/current.html#global-research-rewards)
+:::
 
 ### Current
 ::: tip Tier 5 Boss:
@@ -22,9 +24,14 @@
 :::
 
 ## Upcoming
+### Legendary Raid Day
+::: tip Moltres
+On [September 8th](/events/upcoming.html#moltres-day)
+:::
+
 ### Community Days
 ::: tip Chikorita
-On September 22nd
+On [September 22nd](/events/upcoming.html#chikorita-community-day)
 :::
 
 ::: tip ???
