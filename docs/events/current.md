@@ -2,6 +2,13 @@
 title: Current Events
 ---
 
+## Global Research Rewards
+```
+September 3rd - 10th
+```
+![Global Research](/img/GlobalResearchMoltres.jpg)
+
+
 ## Celebi
 ::: tip PSA
 You can start research on Celebi after you have completed Mew up to Stage 3, then work on the two side by side.
@@ -91,9 +98,9 @@ Teir 5 Boss Regirock
 
 ## Research Breakthrough
 ```
-August breakthrough reward: Raikou
+September breakthrough reward: Entei
 ```
-![Raikou](/img/raikou.jpg)
+![Entei](/img/Entei.jpg)
 
 Quests:
 

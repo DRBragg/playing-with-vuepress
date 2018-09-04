@@ -2,16 +2,9 @@
 title: Upcoming Events
 ---
 
-## Safari Zone
-::: tip Global Challenge, Americas:
-Challenge: Complete 5,000,000 Research Tasks
-Reward: Hatch Stardust Bonus
-:::
+## Moltres Day
 
-```
-Yokosuka, Japan, from August 29 to September 2.
-Global Challenges, from August 29 to September 2.
-```
+![Moltres Day](/img/MoltresDay.jpg)
 
 ## Chikorita Community Day
 
